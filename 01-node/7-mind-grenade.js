@@ -6,3 +6,4 @@ function addValues() {
 }
 
 addValues();
+// if we have a function inside a module, the code would run without assigning it to a variable 
